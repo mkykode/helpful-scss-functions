@@ -1,2 +1,3 @@
-# helpful-scss-functions
-Helpful SCSS functions
+# Helpful SCSS functions
+
+Compilation of helpful scss functions.
